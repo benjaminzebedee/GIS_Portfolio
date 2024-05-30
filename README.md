@@ -1,4 +1,4 @@
-# GIS_Portfolio
+# GIS Portfolio
 This repository contains files and links of various completed GIS related projects and maps that I undertook as part of my degree course.
 
 1. Atlas: a creative project themed around viewing anthropogenic impacts on the planet through the lens of an online video game wiki page
