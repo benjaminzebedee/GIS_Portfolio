@@ -1,2 +1,2 @@
 # GIS_Portfolio
-Repository of completed GIS projects and maps
+This repository contains files and links of various completed GIS related projects and maps that I undertook as part of my degree course.
